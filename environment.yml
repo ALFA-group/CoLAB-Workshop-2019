@@ -1,0 +1,9 @@
+name: colab-2019
+dependencies:
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - scipy
+  - seaborn
