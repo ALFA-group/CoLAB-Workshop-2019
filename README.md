@@ -13,7 +13,8 @@ Download `python` from [https://www.python.org/downloads/](https://www.python.or
 # Setup
 
 Two methods are provided:
-1 Install a `Python` virtual environment [https://docs.python.org/3/library/venv.html](https://docs.python.org/3/library/venv.html)
+
+1. Install a `Python` virtual environment [https://docs.python.org/3/library/venv.html](https://docs.python.org/3/library/venv.html)
 ```
 python3 -m venv colab-venv
 ```
@@ -26,7 +27,7 @@ source colab-venv/bin/activate
 pip install -r requirements.txt
 ```
 
-2 Install with `conda`:
+2. Install with `conda`:
 ```
 conda env create -f environment.yml
 ```
