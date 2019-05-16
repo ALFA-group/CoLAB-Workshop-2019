@@ -1,0 +1,2 @@
+# Ignore raw csv data files. 
+data/*.csv
